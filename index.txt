@@ -3,7 +3,7 @@
 <body>
 
 
-<!--Loop Statement 1-->
+<!--Loop Statement 1 as my first guit hub project-->
 <p>Click the button to loop through a block of code five times.</p>
 
 <button onclick="myFunction()">Try it</button>
